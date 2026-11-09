@@ -39,13 +39,6 @@ Python-IP-Finder/
 
 ## Installation
 
-Clone the repository and navigate to this project folder.
-
-```bash
-git clone YOUR_REPOSITORY_URL
-cd mini-projects/Python-IP-Finder
-```
-
 Create a virtual environment:
 
 ```bash
@@ -105,5 +98,4 @@ This project helped me practise:
 - JSON parsing
 - IPv4 and IPv6 validation
 - API response validation
-- Unit testing and mocking
 - Git and GitHub project management
